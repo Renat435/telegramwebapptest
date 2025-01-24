@@ -1,0 +1,1 @@
+import{a as o,t as r}from"../chunks/BcelVPDF.js";import"../chunks/bZPe3d4d.js";import{p as e}from"../chunks/C5tWVzk2.js";var p=r('<h1>Sosi huy uebishe</h1> <a href="https://pay.dev.acqproject.com/transfer?amount=1000&amp;account=40817810970003564887&amp;bank=ru_sberbank">Пожертвовать Сирийским детям</a>',1);function c(a){var t=p();e(2),o(a,t)}export{c as component};
